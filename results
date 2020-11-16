@@ -1,0 +1,146 @@
+{
+	"result": "OK",
+	"data": [
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "1b3047ba-bf19-4f90-9387-ff5739181bfb",
+			"votes": 36
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "1e3f29ab-559e-4d73-ab87-c6f1f7abd0c8",
+			"votes": 7
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "217c743c-ff94-492a-bf41-6d125f535296",
+			"votes": 8
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "220b8ae9-4e79-4125-8292-eac23cefea2b",
+			"votes": 9
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "377af3c5-abad-45d8-8828-0aa7f688ca65",
+			"votes": 16
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "37b7c621-942f-4fe7-8eb3-c3fbf88f08b8",
+			"votes": 4
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "3c8358f0-c179-4eea-98b9-4cc9889ce8e8",
+			"votes": 6
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "4b9e3a54-a3df-4641-8367-5964138e70e7",
+			"votes": 35
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "533a081c-249f-4325-99c1-aef695b67cbe",
+			"votes": 31
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "62a353fb-79ee-4872-a5b1-07f79d6df0fa",
+			"votes": 29
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "67223b64-3147-4fb0-895e-68a0fd3b09c5",
+			"votes": 10
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "71352496-686d-4293-94a2-a55d46af82f8",
+			"votes": 36
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "7dd800a7-90aa-4655-a6d0-6f5fcdf6af7b",
+			"votes": 2
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "a172a94f-8600-4a4c-a61f-ded650e0b47c",
+			"votes": 53
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "bef38024-2d35-4009-be14-f1c50076de22",
+			"votes": 42
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "c6645f16-43d3-407b-9253-3d98c377b7fb",
+			"votes": 33
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "d96b3bd6-5495-47cf-96e0-621bb5a4f23d",
+			"votes": 36
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "e719e2f9-e715-4d29-a0c2-429c18610bba",
+			"votes": 4
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "f739530c-d49a-4d7f-bfa1-753a06b0a113",
+			"votes": 40
+		},
+		{
+			"_entityName": "primaries_ConferenceCandidateDataUuid",
+			"id": "",
+			"total": 65,
+			"memberUuid": "f85cefb8-6e9f-47a8-87b0-12ddd7f307a2",
+			"votes": 12
+		}
+	],
+	"errors": null
+}
